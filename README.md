@@ -43,7 +43,7 @@ Completing these projects was a vital step in my #100DaysOfML journey. It allowe
 ---
 
 ## 🖇️ Let's Connect
-* **LinkedIn:** [Hanine Slimani](https://www.linkedin.com/in/hanine-slimani-721245233/)
+* **LinkedIn:** [Hanine Slimani](https://www.linkedin.com/in/hanine-slimani-2001b0227/)
 * **Main ML Portfolio:** [ML-Projects](https://github.com/HanineSlimani/ML-Projects)
 
 ---
